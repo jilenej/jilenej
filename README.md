@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @jilenej learn more about me at https://uxfol.io/jilenej/about
 
-- 🎨 My design philosophy: "We all deserve intelligent + beautiful digital experiences that bring utility to our daily lives." Learn more about my design philosophy at https://uxfol.io/p/jilenej/about 
+- 🎨 My design philosophy: "We all deserve intelligent + beautiful digital experiences that bring utility to our daily lives." Learn more about my design philosophy at https://uxfol.io/jilenej/about 
 
 - 👩🏾‍💻 I’m currently learning ... Principle, Framer
 
