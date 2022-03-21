@@ -2,7 +2,7 @@
 
 - 🎨 My design philosophy: "We all deserve intelligent + beautiful digital experiences that bring utility to our daily lives." Learn more about my design philosophy at https://uxfol.io/jilenej/about 
 
-- 👩🏾‍💻 I’m currently learning ... Principle, Framer
+- 👩🏾‍💻 I’m currently learning ... Git, JavaScript, Principle, Framer
 
 - 🤝 I’m looking to collaborate on ... my next UI/Front-end dev project
 
