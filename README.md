@@ -14,7 +14,9 @@
 
 - 📫 How to reach me ... Email: jilenej@gmail.com UX Portfolio: https://uxfol.io/jilenej/
 
-- 💻 Blog: https://thestoriedlifeco.com/ sharing the story behind BIPOC fashion and beauty brands, in this shoppable blog & podcast
+- 💻 Blog: https://thestoriedlifeco.com/ sharing the story behind BIPOC fashion and beauty brands, in this shoppable blog 
+
+- 🎙 Podcast: https://anchor.fm/thestoriedlife sharing the story behind BIPOC fashion and beauty brands, in this shoppable podcast
 
 <!---
 jilenej/jilenej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
