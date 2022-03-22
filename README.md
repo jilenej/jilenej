@@ -1,7 +1,10 @@
 - 👋🏾 Hi, I’m @jilenej learn more about me at https://uxfol.io/jilenej/about
 
 - 🎨 My design philosophy: "We all deserve intelligent + beautiful digital experiences that bring utility to our daily lives." 
-- Learn more about my design philosophy at https://uxfol.io/jilenej/about 
+
+- 🤓 Learn more about my design philosophy at https://uxfol.io/jilenej/about 
+
+- 🎓 UX Masters Degree - Maryland Institute College of Art (mica.edu)  Front-End Development Certfiicate - Fashion Institute of Technology (fitnyc.edu)
 
 - 👩🏾‍💻 I’m currently learning ... Git, JavaScript, Principle, Framer
 
