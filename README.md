@@ -4,7 +4,9 @@
 
 - 🤓 Learn more about my design philosophy at https://uxfol.io/jilenej/about 
 
-- 🎓 UX Masters Degree - Maryland Institute College of Art (mica.edu) & Front-End Development Certfiicate - Fashion Institute of Technology (fitnyc.edu)
+- 🎓 UX Masters Degree - Maryland Institute College of Art (mica.edu) 
+
+- 🏛 Front-End Development Certfiicate - Fashion Institute of Technology (fitnyc.edu)
 
 - 👩🏾‍💻 I’m currently learning ... Git, JavaScript, Principle, Framer
 
