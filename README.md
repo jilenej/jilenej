@@ -6,7 +6,7 @@
 
 - 🎓 UX Masters Degree - Maryland Institute College of Art (mica.edu) 
 
-- 🏛 Front-End Development Certfiicate - Fashion Institute of Technology (fitnyc.edu)
+- 🏛 Front-End Development Certificate - Fashion Institute of Technology (fitnyc.edu)
 
 - 👩🏾‍💻 I’m currently learning ... Git, JavaScript, Principle, Framer
 
