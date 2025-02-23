@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on ... my next UI/Front-End Dev project
 
-- 📫 How to reach me ... Email: jilenej@gmail.com UX Portfolio: [https://uxfol.io/jilenej/](https://uxfol.io/p/jilenej/about)
+- 📫 How to reach me ... Email: jilenej@gmail.com UX Portfolio: [[https://uxfol.io/jilenej/](https://uxfol.io/p/jilenej/about)](https://uxfol.io/p/jilenej/about)
 
 - 💻 Blog: https://thestoriedlifeco.com/ sharing the story behind BIPOC fashion and beauty brands, in this shoppable blog 
 
